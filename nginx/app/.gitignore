@@ -102,10 +102,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-# specific files
-/app/node_modules
-.vs
-/app/.vs
-/nginx-sample/.vs
-/nginx/.vs
